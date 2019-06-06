@@ -1,0 +1,71 @@
+h1{
+    background-color: silver;
+    color: rgb(4, 71, 4);
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+li {
+    display: inline;
+    padding: 5px;
+    font-color: rgb(4, 71, 4);
+    text-align: center;
+}  
+
+#about{
+    float: left;
+    width: 18%;
+    display: inline;
+    border: solid;
+    padding: 5px;
+    font-color: rgb(4, 71, 4);
+}
+
+#current{
+    float: left;
+    width: 18%;
+    display: inline;
+    border: solid;
+    padding: 5px;
+    font-color: rgb(4, 71, 4);
+}
+
+#contact{
+    float: left;
+    width: 18%;
+    display: inline;
+    border: solid;
+    padding: 5px;
+    font-color: rgb(4, 71, 4);
+}
+
+#past{
+    float: left;
+    width: 18%;
+    display: inline;
+    border: solid;
+    padding: 5px;
+    font-color: rgb(4, 71, 4);
+}
+
+#testimonials{
+    float: left;
+    width: 18%;
+    display: inline;
+    border: solid;
+    padding: 5px;
+    font-color: rgb(4, 71, 4);
+}
+.navigation-bar {
+    color: rgb(4, 71, 4);
+    font-family: Times New Roman;
+}
+
+#louisa_oaks{
+    border: 2px;
+    height: 450px;
+    width: 450px;
+}
